@@ -11,8 +11,8 @@ Welcome to the Convolutional Neural Networks (CNN) project in the AI Deep Learni
 
 Along with exploring state-of-the-art CNN models for classification and localization, I have made important design decisions about the user experience for the app.  By completing this lab, I have understood the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline. 
 
-### Main CNN Model
-I had tried to imitate VGG-16 in the step 3 and I used VGG-16 for the transfer learning in step 4. Here is the architecture of VGG-16:
+### Transfer Learning CNN Model
+I used VGG-16 for the transfer learning:
 
 ![VGG-16 Architecture][image2]
 
